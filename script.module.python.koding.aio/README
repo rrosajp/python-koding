@@ -3198,7 +3198,7 @@ function to get the final resolved url.
 	    player  -  By default this is set to xbmc.Player() but you can send through
 	    a different class/function if required.
 
-	    resolver  -  By default this is set to urlresolver but if you prefer to use
+	    resolver  -  By default this is set to resolveurl but if you prefer to use
 	    your own custom resolver then just send through that class when calling this
 	    function and the link sent through will be resolved by your custom resolver.
     
